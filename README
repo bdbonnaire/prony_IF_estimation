@@ -1,0 +1,5 @@
+This is the companion code for the paper "Instantaneous Frequency Estimation in Multicomponent Signals in Case of Interference Based on Prony Method".
+
+All figures in the paper can be recreated using the script of the same name.
+
+A python library is in the works.
